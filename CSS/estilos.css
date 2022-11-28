@@ -1,0 +1,64 @@
+/* LOGO */
+img#logoicon{
+    width: 80px;
+    height: 80px;
+}
+nav.navbar{
+    background-color: #f4f4f4;
+}
+
+li#nav-item{
+    text-align: left;
+}
+header {
+    height: 108px;
+    border-bottom: 1px solid rgb(43, 129, 43);
+    }
+
+/* GERAL */
+body{
+    background-color: #282727;
+}
+.topo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.titulos{ 
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Serif', serif;
+}
+
+.entrada_titulo{
+    text-align: center;
+    color: white;
+    margin-top: 80px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Serif', serif;
+    padding: 30px;
+}
+
+/* CARDS */
+section{
+    padding: 50px;
+}
+
+#imgcard{
+    height: 250px;
+    width: 420px;
+}
+
+/* FOOTER */
+#footer_t1 {
+	margin-top: 80px;
+	background: #f4f4f4;
+  }
+
+  /* Botão */
+.btn {
+    height: 35px;
+    width: 160px;
+}
+
